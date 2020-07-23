@@ -9,7 +9,7 @@ Then:
     
 
 
-Clone this code to your machine
+Clone this repository to your machine
 
     Run npm install
     
